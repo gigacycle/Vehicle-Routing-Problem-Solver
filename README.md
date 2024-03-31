@@ -6,7 +6,7 @@ The Vehicle Routing Problem (VRP) is a combinatorial optimization and integer pr
 
 ## Usage:
 To run each solution, execute the corresponding MATLAB file:
-- For the Bee Colony Algorithm: run 'bee_colony.m'
+- For the Bee Colony Algorithm: run 'beeColony.m'
 - For the Simulated Annealing Algorithm: run 'sa.m'
 - For the Genetic Algorithm: run 'ga.m'
 - For the Tabu Search Algorithm: run 'ts.m'
